@@ -1,0 +1,6 @@
+Résultat du nettoyage
+---------------------
+
+Lignes totales initiales = 4
+Lignes conservées = 2
+Lignes ignorées (non propres) = 2
